@@ -9,3 +9,5 @@
 ## ODD OR EVEN 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112924718/211971361-8d76a925-8f7a-4c53-b531-b5401ac6a410.png)
+## EXPERIMENT-3(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/03.FACTORIAL%20OF%20GIVEN%20NUMBER%20USING%20RECURSION:)
+## OUTPUT
