@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main()
+{
+    int i, n, ft=0, st=1, sum=0;
+    printf("\nEnter number : ");
+    scanf("%d",&n); 
+    printf("\nFibonacci Series is:\n\n\n %d %d ", ft, st); 
+    i=2;    
+    while (i<n)
+    {
+        sum=ft+st;
+        ft=st;
+        st=sum;
+        ++i;
+        printf("%d ",sum);
+    }
+    return 0;
+}
