@@ -1,0 +1,32 @@
+#include<stdio.h>
+int main()
+{
+	int n,a[50],i;
+	int c_e=0,c_o=0;
+	printf("enter the N value:");
+	scanf("%d",&n);
+	printf("enter values:");
+	for(i=1;i<=n;i++)
+	{
+		scanf("%d",&a[i]);
+		
+	}
+	for(i=1;i<=n;i++)
+	{
+	if(a[i]%2==0)
+	{
+	
+		c_e++;
+	}
+	else
+	{
+		c_o++;
+	}
+}
+
+	printf("odd numbers:%d\n",c_o);
+	printf("even number:%d",c_e);
+
+
+	return 0;
+}
