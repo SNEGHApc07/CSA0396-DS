@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main() {
+   int sea, c, n,arr[10],search;
+   printf("ENTER N VALUES:");
+   scanf("%d",&n);
+   printf("enter values:");
+   for(c=1;c<=n;c++){
+   
+   scanf("%d",&arr[c]);
+}
+printf("enter search value:");
+scanf("%d",&sea);
+
+   for (c = 1; c < n; c++) {
+      if (arr[c] == sea) {
+         printf("%d is present at location %d.\n", sea, c);
+         break;
+      }
+   }
+   if (c == n)
+      printf("%d isn't present in the array.\n", sea);
+   return 0;
+}
