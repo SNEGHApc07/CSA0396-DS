@@ -52,6 +52,7 @@
 ## EXPERIMENT-11(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/11.INFLIX%20TO%20POST%20FLIX)
 ## INFLIX TO POSTFLIX
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/213902910-b4ddb165-d210-432f-9e3e-5217bd00a894.png)
 
 ## EXPERIMENT-12(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/12.POSTFLIX%20EXPRESSION)
 ## POSTFLIX EXPRESSION
