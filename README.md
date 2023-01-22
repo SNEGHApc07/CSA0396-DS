@@ -11,3 +11,63 @@
 ![image](https://user-images.githubusercontent.com/112924718/211971361-8d76a925-8f7a-4c53-b531-b5401ac6a410.png)
 ## EXPERIMENT-3(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/03.FACTORIAL%20OF%20GIVEN%20NUMBER%20USING%20RECURSION:)
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/213901838-ef0d6c19-ae2e-46bb-85d9-d4f93a3d8ed0.png)
+## EXPERIMENT-4()
+## OUTPUT
+
+## EXPERIMENT-5()
+## OUTPUT
+
+## EXPERIMENT-6()
+## OUTPUT
+
+## EXPERIMENT-7()
+## OUTPUT
+
+## EXPERIMENT-8()
+## OUTPUT
+
+## EXPERIMENT-9()
+## OUTPUT
+
+## EXPERIMENT-10()
+## OUTPUT
+
+## EXPERIMENT-11()
+## OUTPUT
+
+## EXPERIMENT-12()
+## OUTPUT
+
+## EXPERIMENT-13()
+## OUTPUT
+
+## EXPERIMENT-14()
+## OUTPUT
+
+## EXPERIMENT-15()
+## OUTPUT
+
+## EXPERIMENT-16()
+## OUTPUT
+
+## EXPERIMENT-17()
+## OUTPUT
+
+## EXPERIMENT-18()
+## OUTPUT
+
+## EXPERIMENT-19()
+## OUTPUT
+
+## EXPERIMENT-20()
+## OUTPUT
+
+## EXPERIMENT-21()
+## OUTPUT
+
+## EXPERIMENT-23()
+## OUTPUT
+
+## EXPERIMENT-24()
+## OUTPUT
