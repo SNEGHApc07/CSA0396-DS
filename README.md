@@ -47,6 +47,7 @@
 ## EXPERIMENT-10(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/10.STACK%20USING%20POP%2CPUSH%2CPEEK:)
 ## STACK USING POP,PUSH,PEEK
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/213902861-ea85335b-99c5-4bfd-84e0-0c41d41d630c.png)
 
 ## EXPERIMENT-11(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/11.INFLIX%20TO%20POST%20FLIX)
 ## INFLIX TO POSTFLIX
