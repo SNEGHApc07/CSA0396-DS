@@ -37,6 +37,7 @@
 ## EXPERIMENT-8(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/08.BINARY%20SEARCH)
 ## BINARY SEARCH
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/213902736-71d6d8e4-2b3c-4706-8b05-94165ffde52a.png)
 
 ## EXPERIMENT-9(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/09.ARRAY%20OPERATIONS)
 ## ARRAY OPERATION
