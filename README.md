@@ -14,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/112924718/213901838-ef0d6c19-ae2e-46bb-85d9-d4f93a3d8ed0.png)
 ## EXPERIMENT-4(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/04.FIBONACCI%20SERIES%20WITHOUT%20RECURSION:)
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/112924718/213902166-95d47d0d-2a95-499d-bf96-c9c0e34c60e2.png)
 
 ## EXPERIMENT-5(https://github.com/SNEGHApc07/CSA0396-DS/blob/main/05.FACTORIAL%20USING%20RECURSION:)
 ## OUTPUT
